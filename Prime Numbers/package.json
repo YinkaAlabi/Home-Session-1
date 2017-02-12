@@ -1,0 +1,11 @@
+{
+  "name": "prime-numbers",
+  "version": "1.0.0",
+  "description": "Program to get list of prime numbers",
+  "main": "code.js",
+  "scripts": {
+    "test": "jasmine tests.js"
+  },
+  "author": "Yinka Alabi",
+  "license": "ISC"
+}

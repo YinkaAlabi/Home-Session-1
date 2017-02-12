@@ -1,0 +1,11 @@
+{
+  "name": "data-types",
+  "version": "1.0.0",
+  "description": "Javascript project for checking data types of arguments",
+  "main": "code.js",
+  "scripts": {
+    "test": "jasmine tests.js"
+  },
+  "author": "Yinka Alabi",
+  "license": "ISC"
+}

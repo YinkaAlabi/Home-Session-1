@@ -1,0 +1,11 @@
+{
+  "name": "oop-lab",
+  "version": "1.0.0",
+  "description": "Person OOP for Home Session 1",
+  "main": "person.js",
+  "scripts": {
+    "test": "jasmine tests.js"
+  },
+  "author": "Yinka Alabi",
+  "license": "ISC"
+}

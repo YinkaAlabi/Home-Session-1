@@ -34,10 +34,7 @@ module.exports = {
 		}
 
 		if (typeof param === 'function'){
-			var callback = function(param, callback){
-        		callback.call();
-    		}
-    		return 'called callback';
+        	return param(true);
 		}
  	}
 
